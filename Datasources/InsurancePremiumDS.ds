@@ -1,0 +1,33 @@
+{
+    "webServiceContent": [],
+    "filePath": "C:\\Studio_Workspace\\Workspace\\default_user\\Projects\\InsurancePremiumFinder\\Datasources\\InsurancePremiumDS.ds",
+    "content": {
+        "datasourceType": 0,
+        "modifiedOn": "2021-09-16 10:20:37.369",
+        "datasourceProperties": {
+            "connectionMeta": {
+                "instance": "",
+                "port": "5432",
+                "host": "localhost",
+                "driverName": "Thin",
+                "connectionType": false,
+                "sid": ""
+            },
+            "password": "postgres",
+            "databaseName": "InsurancePremium",
+            "jdbcString": "jdbc:postgresql://localhost:5432/InsurancePremium",
+            "vendor": "PostgreSQL",
+            "poolSize": 3,
+            "isEncrypted": true,
+            "isJdbcUrl": false,
+            "datasourceId": "f129205c-500a-46ce-9319-90aa06739c3e",
+            "active": 1,
+            "id": "ba7fc866-353b-41f5-8a18-ce12c33843c8",
+            "username": "postgres"
+        },
+        "name": "InsurancePremiumDS",
+        "id": "f129205c-500a-46ce-9319-90aa06739c3e",
+        "applicationId": "50409d97-5d08-4a10-9095-051b3fafe9aa",
+        "createdOn": "2021-09-16 10:20:37.369"
+    }
+}
